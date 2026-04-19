@@ -42,3 +42,4 @@ def power(base: float, exponent: float) -> float:
 def is_even(n: int) -> bool:
     """Return True if n is even, False otherwise."""
     return n % 2 == 0
+
